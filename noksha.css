@@ -1,0 +1,31 @@
+
+
+.blank {
+	height: 35px;
+	width: auto;
+}
+
+.row {
+	height: 570px;
+	width: 1160px;
+	background: url(mosjid.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 5px auto;
+}
+
+h1 {
+	color: red;
+	text-align: center;
+	font-size: 80px;
+	margin-bottom: 0;
+}
+
+.box{
+	float: right;
+	text-align: center;
+	margin-right: 150px;
+	font-size: 50px;
+	color: green;
+	font-weight: 900;
+}
